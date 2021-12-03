@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mandeep</h1>
 <!---<h3 align="center">A passionate python developer from India</h3>-->
 
-3+ year of experience in python with working in MNC.I enjoy going into companies whose product and services  have the pontential to change people’s lives for the better and helping them to be happy.
+5+ year of experience in python with working in MNC.I enjoy going into companies whose product and services  have the pontential to change people’s lives for the better and helping them to be happy.
 My expertise are in below technology as a full stack developer:
 - Python
 - Framework: Django, Flask, DRF
@@ -19,8 +19,8 @@ My expertise are in below technology as a full stack developer:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mandeephp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mandeephp" height="30" width="40" /></a>
-<a href="https://fb.com/amarthakurofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amarthakurofficial" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mandeep-thakur-22077375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mandeep-thakur-22077375" height="30" width="40" /></a>
+<a href="https://fb.com/mandeep.thakur.908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mandeep.thakur.908" height="30" width="40" /></a>
 <a href="https://instagram.com/mandeepthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mandeephp" height="30" width="40" /></a>
 </p>
 
