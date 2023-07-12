@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mandeep</h1>
 <!---<h3 align="center">A passionate python developer from India</h3>-->
 
-5+ year of experience in python with working in MNC.I enjoy going into companies whose product and services  have the pontential to change people’s lives for the better and helping them to be happy.
+7+ year of experience in python with working in MNC.I enjoy going into companies whose product and services  have the pontential to change people’s lives for the better and helping them to be happy.
 My expertise are in below technology as a full stack developer:
 - Python
 - Framework: Django, Flask, DRF
